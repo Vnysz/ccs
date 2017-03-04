@@ -1,8 +1,10 @@
+@import url("https://code.radiant.dj/radiant.json"); 
+
 #room-bar .icon-room {
-    top: 13px;
-    left: 7px;
-    background: url(http://i.imgur.com/Wa724BR.jpg);
-    width: 31px;
-    height: 31px;
+    top: 13px !important;
+    left: 7px !important;
+    background: url(http://i.imgur.com/Wa724BR.jpg) !important;
+    width: 31px !important;
+    height: 31px !important;
 }
 	
