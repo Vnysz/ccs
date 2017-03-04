@@ -37,7 +37,7 @@
         "bouncer": "https://moveit-brasil.github.io/ccs/images/bouncer.png",
         "rdj": "https://moveit-brasil.github.io/ccs/images/rdj.png",
         "subscriber": null,
-        "silversubscriber": null,
+        "silversubscriber": null
     },
     "emotes": {
     	"emote_name": null
