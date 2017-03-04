@@ -1,0 +1,45 @@
+{
+    "room": "Gartic boladão",
+    "author": "Léo",
+    "icon": null,
+    "css": null,
+    "rules": {
+        "allowAutorespond": true,
+        "allowAutowoot": true,
+        "allowAutojoin": true,
+        "allowAutograb": true,
+        "allowSmartVote": true,
+        "allowEmotes": true,
+        "allowShowingMehs": true,
+        "forceSmartVote": false
+    },
+    "ccc": {
+        "admin": "#42a5dc",
+		    "ambassador": "#89be6c",
+		    "host": "#db182e",
+	    	"cohost": "#ff1e37",
+	    	"manager": "#BE9113",
+	    	"bouncer": "#05abe4",
+	    	"rdj": "#7936e8",
+	    	"subscriber": "#c59840",
+	    	"silversubscriber": "#8694b2",
+	    	"friend": "#007a5a",
+	    	"user": "#007a5a"
+    },
+    "images": {
+        "background": "http://i.imgur.com/Ddou812.jpg",
+        "playback": "http://i.imgur.com/7unsJy3.jpg",
+        "admin": null,
+        "ambassador": null,
+        "host": "https://moveit-brasil.github.io/ccs/images/host.png",
+        "cohost": "https://moveit-brasil.github.io/ccs/images/host.png",
+        "manager": "https://moveit-brasil.github.io/ccs/images/manager.png",
+        "bouncer": "https://moveit-brasil.github.io/ccs/images/bouncer.png",
+        "rdj": "https://moveit-brasil.github.io/ccs/images/rdj.png",
+        "subscriber": null,
+        "silversubscriber": null,
+    },
+    "emotes": {
+    	"emote_name": null
+    }
+}
