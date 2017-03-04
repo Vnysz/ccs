@@ -15,16 +15,16 @@
     },
     "ccc": {
         "admin": "#42a5dc",
-		"ambassador": "#89be6c",
-		"host": "#db182e",
-		"cohost": "#ff1e37",
-		"manager": "#BE9113",
-		"bouncer": "#05abe4",
-		"rdj": "#7936e8",
-		"subscriber": "#c59840",
-		"silversubscriber": "#8694b2",
-		"friend": "#007a5a",
-		"user": "#007a5a"
+	"ambassador": "#89be6c",
+	"host": "#db182e",
+	"cohost": "#ff1e37",
+	"manager": "#BE9113",
+	"bouncer": "#05abe4",
+	"rdj": "#7936e8",
+	"subscriber": "#c59840",
+	"silversubscriber": "#8694b2",
+	"friend": "#007a5a",
+	"user": "#007a5a"
     },
     "images": {
         "background": "http://i.imgur.com/Ddou812.jpg",
