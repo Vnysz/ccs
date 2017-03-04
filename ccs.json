@@ -28,7 +28,7 @@
     },
     "images": {
         "background": "http://i.imgur.com/Ddou812.jpg",
-        "playback": "http://i.imgur.com/7unsJy3.jpg",
+        "playback": null,
         "admin": null,
         "ambassador": null,
         "host": "https://moveit-brasil.github.io/ccs/images/host.png",
