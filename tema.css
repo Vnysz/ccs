@@ -1,8 +1,8 @@
-
-	
 #room-bar .icon-room {
-                background: url(http://i.imgur.com/Wa724BR.jpg);
-                width: 31px;
-                height: 31px;
-        }
+    top: 13px;
+    left: 7px;
+    background: url(http://i.imgur.com/Wa724BR.jpg);
+    width: 31px;
+    height: 31px;
+}
 	
